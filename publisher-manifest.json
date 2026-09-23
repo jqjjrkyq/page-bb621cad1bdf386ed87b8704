@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5363fe6082bca6f469a9edd0",
+  "owner": "jqjjrkyq",
+  "repo": "page-bb621cad1bdf386ed87b8704",
+  "title": "D2加速(D2)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bb621cad1bdf386ed87b8704",
+      "a": "D2加速(D2)",
+      "b": "2027官方最新地址导航",
+      "entity": "D2加速(D2)",
+      "brand": "D2加速(D2)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "88dda268325111bc373f52130c083e425955722d36a2724b268db547769d218c",
+      "content": {
+        "primary_entity": "D2加速(D2)",
+        "keyword1": "D2加速(D2)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选客户端，桌面端用 Clash Verge，移动端用 Shadowrocket 或 Clash for Android。",
+          "AI_CLIENTS_TITLE": "各设备客户端搭配",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启加速体验",
+          "AI_DESCRIPTION": "，D2加速面向需要稳定海外网络连接的用户，提供基础版、旗舰版与团队版三档套餐，按月或按年订阅。旗舰版包含 IPLC 专线节点与多设备在线支持，适合日常流媒体与游戏场景；团队版面向多设备或小型团队，提供更高流量与专属节点。客户端覆盖桌面与移动平台，按自身设备选择对应工具即可导入订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度对比，更容易找到适合的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，适合多终端日常加速。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量、支持 20 台设备，并可定制企业路由，适合小型团队统一管理。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付方案，按年订阅比按月更省，长期使用可以优先考虑年付价格。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "团队场景支持",
+          "AI_FEATURE_TITLE_3": "订阅周期建议",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，只需留意三个环节。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "D2加速为需要访问海外网络资源的用户提供多档订阅方案，基础版、旗舰版与团队版覆盖不同流量与设备数量需求。根据使用设备与流量消耗选择版本，再按客户端说明导入订阅，就能完成日常配置。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB、3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备。年付分别为 ¥150、¥350、¥850，可按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看日常流量消耗和需要同时在线的设备数量，在基础版、旗舰版、团队版之间找到匹配档位。",
+          "AI_STEP_TEXT_2": "确认设备平台与套餐的设备数量上限，团队版可额外关注定制路由与客户经理服务。",
+          "AI_STEP_TEXT_3": "按所选客户端的使用说明导入订阅配置，完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "D2加速订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "D2加速三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，主打基础流媒体解锁；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，提供VIP专属高带宽节点和企业定制路由。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "各档套餐分别限制3台、5台或20台设备同时在线，指同一时间发起的连接数量，超出后需断开其他设备再连接。",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付价格分别为15元、35元、85元；年付分别为150元、350元、850元。年付折算每月费用低于月付，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何为设备导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在对应客户端中找到订阅或配置导入入口，按客户端文档提供的步骤填入订阅信息并保存，之后刷新节点列表即可选择线路使用。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量额度用尽后连接会停止，可在下个计费周期恢复，也可以升级到更高流量档位继续使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "atushiai.cn",
+    "host": "atushiai.cn"
+  },
+  "file_hashes": {
+    "index.html": "c3617fdcd0f3055611689a3d37887511cfc22789aa6dc85f42365e93ac74438f",
+    "sitemap.xml": "80c975f577f0bc86d5050cd75e744018b2630cd81be00899434360e6224529e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bae3b680e3449e3891911f26233052beb5b5d9eb5c1cff6fe4fd2099a0f3abde",
+    "robots.txt": "616652dedce6bca693ebac94991c2c24676358109352f63d18f976254baf13c0",
+    "1f1a2dbf5e39f5c8468e438a702dc585.txt": "6efe94739389b018c18826284a07f09956495e9666a513d51801764f3827557b"
+  },
+  "revision": "5579324092b79a0af250b4f1bda535ec2114f1770bd6550345b7f5a59a83b215"
+}
